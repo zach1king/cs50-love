@@ -10,14 +10,14 @@
 
 [TOC]
 
-#Introduction
+# Introduction
 This is CS50 Love. 
 
 This web app is written in Python with Flask Framework. Under the inspiration of ```CS50 Finance``` app, ```CS50 Love``` is developed using CS50 IDE, aiming to introduce lovers to those are single.
 
 The app aims to be free so that people from worldwide can meet and chat without any payment. However, to support, a donate function is added onto the website as well.
 
-#Dependencies
+# Dependencies
 Before running the web app in CS50 IDE, please run the following in the console:
 ```shell
 sudo pip install Flask-SQLAlchemy
@@ -32,7 +32,7 @@ Tables:
 2. transfer (for recording users interactions)
 3. countries (READ-ONLY: dictionary for mapping locations and dial number headers)
 
-#Basic Workflow
+# Basic Workflow
 1. Registrant (new user)
 ![](https://i.imgur.com/jjsDiFG.jpg)
 2. Requester
@@ -40,7 +40,7 @@ Tables:
 3. Confirmer
 ![](https://imgur.com/MYHpH0R.jpg)
 
-#Screenshots
+# Screenshots
 (IMG-1)	Zach's Profile
 ![](https://i.imgur.com/FMvQn0y.jpg)
 
@@ -81,7 +81,7 @@ Tables:
 ![](https://i.imgur.com/bzDQ5zg.jpg)
 
 
-#About the author
+# About the author
 ---by Zach CHAN on 27 Sep, 2019
 
 I am a programmer from Hong Kong and the creator of CS50 Love. I studied CS50 2018 in September, 2019 through edX.
