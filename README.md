@@ -6,11 +6,6 @@
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
-
-
 <!-- TOC depthFrom:2 -->
 
 - [Introduction](#introduction)
