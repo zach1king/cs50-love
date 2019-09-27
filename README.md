@@ -10,6 +10,18 @@
 
 [TOC]
 
+
+<!-- TOC depthFrom:2 -->
+
+- [Introduction](#introduction)
+- [Dependencies](#dependencies)
+- [Basic Work Flow](#basic-work-flow)
+- [Screenshots](#screenshots)
+- [About the author](#about-the-author)
+
+<!-- /TOC -->
+
+
 # Introduction
 This is CS50 Love. 
 
