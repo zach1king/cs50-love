@@ -10,7 +10,7 @@
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
-- [Basic Work Flow](#basic-work-flow)
+- [Basic Workflow](#basic-workflow)
 - [Screenshots](#screenshots)
 - [About the author](#about-the-author)
 
