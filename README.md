@@ -28,6 +28,8 @@ The app aims to be free so that people from worldwide can meet and chat without 
 
 The website is temporary hosted on CS50 IDE. It will be only open when you have request on this github page. The detailed announcement for open the website due to the request will be made in advance.
 
+CS50 Love Website URL: https://84a647b1-34de-4d1d-988d-d8de615af8fd-ide.cs50.xyz
+
 # Dependencies
 Before running the web app in CS50 IDE, please run the following in the console:
 ```shell
