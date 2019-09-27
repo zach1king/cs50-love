@@ -20,9 +20,13 @@
 # Introduction
 This is CS50 Love. 
 
+Github Page for Issuing Bugs: https://github.com/zach1king/cs50-love
+
 This web app is written in Python with Flask Framework. Under the inspiration of ```CS50 Finance``` app, ```CS50 Love``` is developed using CS50 IDE, aiming to introduce lovers to those are single.
 
 The app aims to be free so that people from worldwide can meet and chat without any payment. However, to support, a donate function is added onto the website as well.
+
+The website is temporary hosted on CS50 IDE. It will be only open when you have request on this github page. The detailed announcement for open the website due to the request will be made in advance.
 
 # Dependencies
 Before running the web app in CS50 IDE, please run the following in the console:
