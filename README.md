@@ -26,9 +26,8 @@ This web app is written in Python with Flask Framework. Under the inspiration of
 
 The app aims to be free so that people from worldwide can meet and chat without any payment. However, to support, a donate function is added onto the website as well.
 
-The website is temporary hosted on CS50 IDE. It will be only open when you have request on this github page. The detailed announcement for open the website due to the request will be made in advance.
 
-CS50 Love Website URL: https://84a647b1-34de-4d1d-988d-d8de615af8fd-ide.cs50.xyz
+CS50 Love Website URL: https://shchanam.pythonanywhere.com
 
 # Dependencies
 Before running the web app in CS50 IDE, please run the following in the console:
